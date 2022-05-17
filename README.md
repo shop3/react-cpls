@@ -35,6 +35,10 @@ const Example = () => {
 }
 ```
 
+## Example
+
+![Screen recording demostration](https://github.com/shop3/react-cpls/blob/main/assets/react-cpls-screen-recording.gif)
+
 # Development
 
 ## Installation
